@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "color": "^4.2.3",
+    "gd.js": "^0.2.13",
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^3.2.10"
+  },
+  "name": "getlvlinfo",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [
+    "gd",
+    "getlvlinfo",
+    "lilys",
+    "geometry",
+    "dash"
+  ],
+  "author": "lilys",
+  "license": "ISC"
+}
