@@ -1,5 +1,6 @@
 # getGdInfo
-Get person or level data in geometry dash
+Get person or level data in geometry dash.
+
 How to use it?
 1. Install node.js https://nodejs.org/en/
 2. install modules using npm
